@@ -1,10 +1,12 @@
 <template>
-  <div class="home"></div>
+  <div>
+    <b-button>Button</b-button>
+  </div>
 </template>
 
 <script>
-export default {
-  name: "Home",
-  components: {}
-};
+export default {};
 </script>
+
+<style>
+</style>
